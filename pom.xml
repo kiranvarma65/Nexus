@@ -29,12 +29,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://Jenkinsserver.com:8081/repository/Testrelease/</url>
+            <url>http://Jenkinsserver:8081/repository/Testrelease/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://Jenkinsserver.com:8081/repository/Testsnapshot</url>
+            <url>http://Jenkinsserver:8081/repository/Testsnapshot</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
